@@ -13,6 +13,7 @@
 <li><a href="https://kllyqueiroz.github.io/Html-Css/Exercicios/Exe010">Executar atividade</a></li>
 <li><a href="https://kllyqueiroz.github.io/Html-Css/Exercicios/Exe011 nota">Executar atividade</a></li>
 <li><a href="https://kllyqueiroz.github.io/Html-Css/Exercicios/Exe012">Executar atividade</a></li>
+<li><a href="https://kllyqueiroz.github.io/Html-Css/Exercicios/trabalho nota">Trabalho Nota</a></li>
 
 
 
